@@ -9,10 +9,9 @@ body>div {
 
 h1 {
   background-color: beige;
-  text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  padding: 20px 0;
+  padding: 20px 20px;
 }
 
 h2 {
@@ -38,10 +37,11 @@ color: azure;
 
 ul a {
   color: cadetblue;
-  text-decoration: none;
+  /* text-decoration: none; */
+  font-size:xx-large;
   font-weight: bold;
   display: block;
-  padding: 20px 10px;
+  padding: 80px 10px;
 }
 
 img {
